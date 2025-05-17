@@ -1,8 +1,8 @@
-# 🧠 Stroke Prediction App
+# Stroke Prediction App
 
 A simple and interactive web application built with **Python** and **Streamlit** that predicts the likelihood of a person having a **stroke** based on health and lifestyle-related information.
 
-## 📌 Features
+## Features
 
 - User-friendly interface with Streamlit
 - Machine Learning model trained using Scikit-learn
@@ -11,7 +11,7 @@ A simple and interactive web application built with **Python** and **Streamlit**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas, NumPy
@@ -21,7 +21,7 @@ A simple and interactive web application built with **Python** and **Streamlit**
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # install Streamlit if you already have the others
@@ -30,7 +30,5 @@ pip install streamlit
 # Run the app
 streamlit run streamlit.py
 
-## 📸 Screenshot
 
-![App Screenshot](Image.jpg)
 
