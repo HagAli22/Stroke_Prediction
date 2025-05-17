@@ -32,5 +32,5 @@ streamlit run streamlit.py
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![Stroke_Prediction](screenshot.png)
 
